@@ -6,3 +6,6 @@
 
 ## 29/11/18
 ### Í dag kláraði ég VLAN configuration og trunking og port security á öllum vörðuskóla switchum
+
+## 03/12/18
+### Allt trunking og VLAN config komið í öllum byggingum.
