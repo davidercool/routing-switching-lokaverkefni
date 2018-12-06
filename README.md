@@ -9,3 +9,6 @@
 
 ## 03/12/18
 ### Allt trunking og VLAN config komið í öllum byggingum.
+
+## 06/12/18
+### Kláraði subinterface stillingar á öllum byggingum, setti in RIP v2
